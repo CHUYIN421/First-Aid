@@ -22,11 +22,6 @@ Segundo lugar en concurso estatal de creatividad e innovacion tecnologica
 
 Aplicación diseñada con una interfaz sencilla e intuitiva, pensada para ser utilizada por cualquier persona en momentos críticos.
 
-## 📸 Evidencia  
-
-![App](First20%Aid20%-20%Pantalla20%Principal.jpeg)
-![Concurso](imagenes/concurso.jpg)
-
 ## 👨‍💻 Autor
 
 Jesus Eliseo
